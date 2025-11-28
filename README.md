@@ -5,7 +5,6 @@ A comprehensive collection of high-quality **Machine Learning (ML)** and **Deep 
 This repository includes well-structured PPTs covering fundamental concepts, advanced techniques, real-world applications, and hands-on workflows used in modern AI development.
 
 ---
-
 ## 🎯 Purpose of This Repository
 
 This repository is created to:
